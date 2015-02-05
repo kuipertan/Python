@@ -1,0 +1,11 @@
+
+watch net interface traffic
+
+Usage:
+
+python watchNetstat.py -n 1 -i eth0 
+
+Means watch eth0 every 1 second
+
+Tested on CentOS python 2.6
+
