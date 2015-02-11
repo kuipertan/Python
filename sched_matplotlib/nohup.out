@@ -1,0 +1,2 @@
+traffic.py:110: SyntaxWarning: name 'serv' is assigned to before global declaration
+  global serv
